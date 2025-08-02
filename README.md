@@ -8,7 +8,7 @@ Understanding customer sentiment at scale is critical for businesses to improve 
 
 ## 📊 Dataset
 
-- **Source**: [Amazon Alexa Reviews Dataset](https://www.kaggle.com/datasets/freddiefujiwara/amazon-alexa-reviews)
+- **Source**: Kaggle
 - **Size**: 3,150 reviews
 - **Target variable**: `feedback` (1 for positive, 0 for negative)
 - **Feature used**: `verified_reviews`
