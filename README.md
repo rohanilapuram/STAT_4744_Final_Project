@@ -67,5 +67,5 @@ Implemented in **PyTorch**, the model pipeline includes:
 ---
 
 **Author**: Rohan Ilapuram  
-**Email**: rohanilapuram@gmail.com  
+**Email**: ilapuramrohan@gmail.com  
 **Affiliation**: Virginia Tech, Department of Statistics  
